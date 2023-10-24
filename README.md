@@ -9,6 +9,7 @@ A brief description of your project.
 
 ## Contributors
 
+<div style="margin: auto;">
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="text-align: center;">
@@ -55,6 +56,7 @@ A brief description of your project.
     </td>
   </tr>
 </table>
+</div>
 
 ## Introduction
 
