@@ -11,11 +11,11 @@ A brief description of your project.
 
 ### John Doe
 
-[![John Doe](https://example.com/john_doe.jpg)](./contributors/john_doe.md)
+[![John Doe](image.jpg)](./contributors/john_doe.md)
 
 ### Jane Smith
 
-[![Jane Smith](https://example.com/jane_smith.jpg)](./contributors/jane_smith.md)
+[![Jane Smith](download.jpg)](./contributors/jane_smith.md)
 
 ## Introduction
 

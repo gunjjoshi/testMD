@@ -1,6 +1,6 @@
 # Jane Smith
 
-![Jane Smith](https://example.com/jane_smith.jpg)
+![Jane Smith](download.jpg)
 
 A software engineer with a love for coding and community engagement.
 
