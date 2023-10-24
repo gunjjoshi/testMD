@@ -43,7 +43,7 @@ Achivements/Contributions in Cyber Security(Top 3, Optional)
       <a href = "./contributors/aman_patel.md">Aman Patel</a>
     </td>
     <td style="text-align: center;">
-      <img src="./contributors/images/gopal_bishnoi.jpg" alt="Gopal Bishnoi" style="width: 100px; height: 100px;">
+      <img src="./contributors/images/gopal-bishnoi.jpg" alt="Gopal Bishnoi" style="width: 100px; height: 100px;">
       <br>
       <a href = "./contributors/gopal_bishnoi.md">Gopal Bishnoi</a>
     </td>
