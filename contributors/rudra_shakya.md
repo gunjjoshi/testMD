@@ -1,4 +1,4 @@
-![Rudra Shakya](./contributors/images/rudra-shakya.jpg)
+![Rudra Shakya](./images/rudra-shakya.jpg)
 Name: Rudra Shakya
 Organization: IIIT Kottayam
 Your Journey to Open Source / Cyber Security (50-100 Words): This is going to be my first PR !!

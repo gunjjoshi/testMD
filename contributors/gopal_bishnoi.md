@@ -1,4 +1,4 @@
-![Gopal Bishnoi](./contributors/images/gopal-bishnoi.jpg)
+![Gopal Bishnoi](./images/gopal-bishnoi.jpg)
 Name: Gopal Bishnoi
 Organization: IIIT Kottayam
 Your Journey to Open Source / Cyber Security (50-100 Words): This is going to be my first PR !!

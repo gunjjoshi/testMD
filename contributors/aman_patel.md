@@ -1,4 +1,4 @@
-![Aman Patel](./contributors/images/aman-patel.jpg)
+![Aman Patel](./images/aman-patel.jpg)
 Name: Aman Patel
 Organization: IIIT Kottayam
 Your Journey to Open Source / Cyber Security (50-100 Words): This is going to be my first PR !!

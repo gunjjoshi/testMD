@@ -1,4 +1,4 @@
-![Mohan Raju](./contributors/images/mohan-raju.jpg)
+![Mohan Raju](./images/mohan-raju.jpg)
 Name: Mohan Raju
 Organization: IIIT Kottayam
 Your Journey to Open Source / Cyber Security (50-100 Words): This is going to be my first PR !!

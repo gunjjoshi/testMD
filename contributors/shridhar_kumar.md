@@ -1,4 +1,4 @@
-![Shridhar Kumar](./contributors/images/shridhar-kumar.jpg)
+![Shridhar Kumar](./images/shridhar-kumar.jpg)
 Name: Shridhar Kumar
 Organization: IIIT Kottayam
 Your Journey to Open Source / Cyber Security (50-100 Words): This is going to be my first PR !!
